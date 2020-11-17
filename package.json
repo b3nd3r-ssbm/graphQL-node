@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
 	"start": "node index.js"
   },
-  "author": "",
+  "author": "b3nd3r-ssbm",
   "license": "GPL-3.0-or-later"
 }
